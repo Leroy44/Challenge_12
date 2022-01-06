@@ -1,5 +1,4 @@
-# Challenge_12
-Credit Risk Resampling
+##Credit Risk Resampling
 
 Create a basic machine learning model to address the classification problem inherent to credit portfolios.
 
